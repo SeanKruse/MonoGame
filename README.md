@@ -1,2 +1,0 @@
-# MonoGame
-C# Game
