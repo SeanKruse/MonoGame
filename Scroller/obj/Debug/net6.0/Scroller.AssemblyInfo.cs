@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Scroller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90cca98fc10e9e71d4d9597ac67d069f9de68db9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4070adaeeaf617e3a2bf3caf0445efb76bc8a33a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scroller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Scroller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
